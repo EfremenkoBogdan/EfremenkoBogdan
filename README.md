@@ -6,10 +6,13 @@
 
 ### Hi there 👋
 My name is Bogdan, glad to see you on my Github.
+
 ---
 
 ### :man_technologist: About Me :
 🌱 I’m currently learning Java
+🏠 3 years of experience in the largest bank in Russia
+👨‍💻 2 years of experience in a Big 4 company
 
 ---
 
