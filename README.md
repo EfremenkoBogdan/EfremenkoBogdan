@@ -5,7 +5,7 @@
 ---
 
 ### Hi there 👋
-
+My name is Bogdan, glad to see you on my Github.
 ---
 
 ### :man_technologist: About Me :
