@@ -30,7 +30,7 @@ My name is Bogdan, glad to see you on my Github page.
 
 ### 😄 Joke: 
 
-Q: Why do Java Programmers wear glasse 
+Q: Why do Java Programmers wear glasses 
 
 A: Because they can't C#
 <!--
